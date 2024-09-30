@@ -13,7 +13,7 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 
 ### Files
 
-- **`pomodoro.py`**: This is the core Python script that implements the timer logic. It allows you to run the timer with the standard Pomodoro intervals.
+- **`main.py`**: This is the core Python script that implements the timer logic. It allows you to run the timer with the standard Pomodoro intervals.
   
 - **`tomato.png`**: This image file is used to represent the Pomodoro timer's visual element. Feel free to replace this image with any other that suits your preferences.
 
