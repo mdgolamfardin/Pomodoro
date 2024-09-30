@@ -21,12 +21,12 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Pomodoro-1.git
+    git clone https://github.com/yourusername/Pomodoro.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Pomodoro-1
+    cd Pomodoro
     ```
 
 3. **Run the script**:
