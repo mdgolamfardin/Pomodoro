@@ -8,6 +8,7 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 - **Break Timer**: Short 5-minute breaks between work sessions.
 - **Customizable**: Easily adjust the work and break intervals by modifying the script.
 - **Visual Feedback**: Uses `tomato.png` to provide a fun, visual element for the timer.
+- **Notifications**: Notifies everytime the timer goes off, whether break session or work.
 
 
 ### Files
