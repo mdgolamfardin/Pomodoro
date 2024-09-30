@@ -1,0 +1,4 @@
+([('pomodoro',
+   '/Users/fardinmdgolam/Desktop/Contents/Study/Python '
+   'Cours/PycharmProjects/Day 28 - Pomodoro/pomodoro-start/dist/pomodoro',
+   'EXECUTABLE')],)
