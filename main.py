@@ -41,7 +41,7 @@ YELLOW = "#f7f5dd"
 BUTTON_COLOR = "#FFE8C5"
 FONT_NAME = "Courier"
 WORK_MIN = 25  # Work session duration in minutes
-SHORT_BREAK_MIN = 6  # Short break duration in minutes
+SHORT_BREAK_MIN = 5  # Short break duration in minutes
 LONG_BREAK_MIN = 20  # Long break duration in minutes
 
 # ---------------------------- Global Variables ----------------------------#
