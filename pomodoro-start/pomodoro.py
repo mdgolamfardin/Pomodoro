@@ -162,8 +162,7 @@ timer_lbl.grid(column=1, row=0)  # Position the timer label at the top center
 
 # Canvas
 canvas = Canvas(width=200, height=224, bg=YELLOW, highlightthickness=0)  # Create a canvas for drawing
-tomato_img = PhotoImage(file="/Users/fardinmdgolam/Desktop/Contents/Study/Python Cours/PycharmProjects"
-                             "/Day 28 - Pomodoro/pomodoro-start/tomato.png")  # Load the tomato image for display
+tomato_img = PhotoImage(file="pomodoro-start/tomato.png")  # Load the tomato image for display
 canvas.create_image(100, 112, image=tomato_img)  # Position the tomato image on the canvas
 canvas_text = canvas.create_text(100, 130, text=f"{WORK_MIN}:00", fill="white", font=(FONT_NAME, 35, "bold"))
 canvas.grid(column=1, row=1)  # Position the canvas in the center
