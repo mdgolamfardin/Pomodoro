@@ -32,11 +32,11 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 3. **Run the script**:
     Make sure you have Python installed on your machine. You can then run the script using:
     ```bash
-    python pomodoro.py
+    python main.py
     ```
 
 4. **Customize Timer Settings**:
-    You can modify the work or break intervals by adjusting the corresponding variables in the `pomodoro.py` file.
+    You can modify the work or break intervals by adjusting the corresponding variables in the `main.py` file.
 
 ## Prerequisites
 
