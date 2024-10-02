@@ -1,6 +1,6 @@
 # Pomodoro Timer ⏲️
 
-This repository contains a simple **Pomodoro Timer** built with Python. The Pomodoro Technique is a time management method that helps individuals stay productive by breaking down their work into focused intervals, traditionally 25 minutes of work followed by a short break.
+This repository contains a simple **Pomodoro Timer** built with Python. The Pomodoro Technique is a time management method that helps individuals stay productive by breaking down their work into focused intervals, traditionally 25 minutes of work followed by a short break. For now, this application is only available for macOS.
 
 ## Features
 
