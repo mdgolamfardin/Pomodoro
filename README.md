@@ -44,7 +44,7 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 2. **Double-click** on the `reset` button to reset the timer
 
 ## Acknowledgement
-This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on udemy.
+This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on Udemy.
 
 ## Author
 - [mdgolamfardin](https://github.com/mdgolamfardin)
