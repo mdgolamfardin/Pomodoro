@@ -18,7 +18,7 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
   
 - **`tomato.png`**: This image file is used to represent the Pomodoro timer's visual element. Feel free to replace this image with any other that suits your preferences.
 
-## How to Use
+## How to Run
 
 1. **Clone the repository**:
     ```bash
@@ -38,6 +38,10 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 
 4. **Customize Timer Settings**:
     You can modify the work or break intervals by adjusting the corresponding variables in the `main.py` file.
+
+## How to Use
+1. Click on the `start` button to start the timer
+2. **Double-click** on the `reset` button to reset the timer
 
 ## Acknowledgement
 This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on udemy.
