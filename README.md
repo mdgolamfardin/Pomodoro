@@ -39,8 +39,8 @@ This repository contains a simple **Pomodoro Timer** built with Python. The Pomo
 4. **Customize Timer Settings**:
     You can modify the work or break intervals by adjusting the corresponding variables in the `main.py` file.
 
-## Prerequisites
+## Acknowledgement
+This project is a part of the course "100 Days of Code: The Complete Python Pro Bootcamp", taught by Dr. Angela Yu on udemy.
 
-- Python 3.x must be installed on your system.
-- You may also want to install additional libraries depending on how the script is configured.
-
+## Author
+- [mdgolamfardin](https://github.com/mdgolamfardin)
